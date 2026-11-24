@@ -1,1 +1,1 @@
-# Funciones-y-matrices
+#Proyecto para la asignatura de Funciones-y-matrices, el cual se basa en ser un gestor de contraseñas con distintas funcionalidades, donde se usan distintas materias de la asignatura para evidenciar su uso en la ciberseguridad
